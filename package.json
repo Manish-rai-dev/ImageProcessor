@@ -1,0 +1,25 @@
+{
+  "name": "imageprocessor",
+  "version": "1.0.0",
+  "description": "Image processor that compresses the image by 50 percent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish-rai-dev/ImageProcessor.git"
+  },
+  "keywords": [
+    "image",
+    "processor",
+    "compress",
+    "50%reduced"
+  ],
+  "author": "manish-rai-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manish-rai-dev/ImageProcessor/issues"
+  },
+  "homepage": "https://github.com/Manish-rai-dev/ImageProcessor#readme"
+}
